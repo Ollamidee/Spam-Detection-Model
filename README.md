@@ -46,11 +46,11 @@ The dataset used for this project is the "SMS Spam Detection Dataset" dataset, p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your-GitHub-Repo-Link]
+    git clone https://github.com/Ollamidee/Spam-Detection-Model.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [Your-Project-Folder]
+    cd Spam-Detection-Model
     ```
 3.  **Install the required libraries:**
     ```bash
