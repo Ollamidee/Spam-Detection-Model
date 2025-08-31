@@ -1,4 +1,4 @@
-### Spam Detection Model
+# Spam Detection Model
 
 
 ### Project Description
